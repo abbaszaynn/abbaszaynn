@@ -11,15 +11,26 @@
   </p>
 </div>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="25px"> Who I Am
+### 🌐 Executive Profile
 
-A passionate **Full Stack Developer** & **AI Automation Engineer** dedicated to building unified, automated systems and impactful AI applications.
-
-- 🔭 **Currently Building:** Automated AI pipelines & unified full-stack apps
-- 💡 **Tech Stack:** React Native, Next.js, TypeScript, Python, Supabase, PostgreSQL, n8n
-- 🧠 **AI / ML Focus:** PyTorch, TensorFlow, NLP (XLM-RoBERTa, mBERT), Computer Vision
-- 🚀 **Key Projects:** Camp Management (Mobile & Web), MUST Framework (IEEE Access), Mine Explorer
-- 🎓 **Certifications:** AI in Cyber Security, Generative AI & Prompt Engineering, Agile Project Management
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
+      <h3 style="margin-top:0;">Architecting Intelligent Systems</h3>
+      <p>I engineer seamless integrations between <b>advanced AI models</b> and <b>robust full-stack applications</b>. My work focuses on transforming complex data and research into scalable, high-performance enterprise solutions.</p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000&color=4f46e5&vCenter=true&multiline=true&width=500&height=110&lines=%3E_+Initiating+AI+Core...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E_+Training+NLP+Models...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E_+Building+Cloud+Architecture...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E_+Integrating+Full-Stack+APIs...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25" alt="Terminal Typing Effect" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/Focus-AI_Automation-4f46e5?style=flat-square" alt="AI Automation Badge"/>
+      <img src="https://img.shields.io/badge/Domain-Civic_Tech_%26_Fintech-4f46e5?style=flat-square" alt="Domain Badge"/>
+      <img src="https://img.shields.io/badge/Research-Multilingual_NLP-4f46e5?style=flat-square" alt="Research Badge"/>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
