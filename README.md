@@ -11,45 +11,69 @@
   </p>
 </div>
 
-### 👨‍💻 Who I Am
+### <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="25px"> Who I Am
 
-```typescript
-const ZainAbbas = {
-  title: "FULL STACK / AI AUTOMATION",
-  stack: ["React Native", "Next.js", "TypeScript", "Python", "Supabase", "PostgreSQL", "PyTorch", "TensorFlow", "n8n"],
-  launchedProjects: [
-    "Camp Management Web & Mobile (Lovable to React Native/Supabase)",
-    "MUST Framework (IEEE Access Published)",
-    "Mine Explorer (Vercel/Next.js)"
-  ],
-  certifications: ["AI in Cyber Security", "Generative AI and Prompt Engineering", "Agile Project Management"],
-  status: "Building automated AI pipelines & unified full-stack apps"
-};
-```
+A passionate **Full Stack Developer** & **AI Automation Engineer** dedicated to building unified, automated systems and impactful AI applications.
+
+- 🔭 **Currently Building:** Automated AI pipelines & unified full-stack apps
+- 💡 **Tech Stack:** React Native, Next.js, TypeScript, Python, Supabase, PostgreSQL, n8n
+- 🧠 **AI / ML Focus:** PyTorch, TensorFlow, NLP (XLM-RoBERTa, mBERT), Computer Vision
+- 🚀 **Key Projects:** Camp Management (Mobile & Web), MUST Framework (IEEE Access), Mine Explorer
+- 🎓 **Certifications:** AI in Cyber Security, Generative AI & Prompt Engineering, Agile Project Management
+
+---
 
 ### 🚀 Featured Projects
 
-#### 1. Camp Management Platform (Web & Mobile)
-[![Camp Management](https://github-readme-stats.vercel.app/api/pin/?username=abbaszaynn&repo=camp-management&theme=nord&bg_color=00000000&hide_border=true&title_color=4f46e5&icon_color=4f46e5)](https://github.com/abbaszaynn/camp-management)
+<br>
 
-| Layer | Technology |
-|---|---|
-| Frontend | React Native, Next.js / TypeScript |
-| Backend | Supabase, PostgreSQL |
-| Details | Migrated the camp-management platform's web app off a no-code builder (Lovable) and merged it with the React Native mobile app on one Supabase PostgreSQL backend. |
+#### 🏕️ Camp Management Platform (Web & Mobile)
+> *Migrated the camp-management platform's web app off a no-code builder (Lovable) and merged it with the React Native mobile app on one Supabase PostgreSQL backend. Streamlined records for 200+ operations.*
 
-**Links:** [Code](https://github.com/abbaszaynn/camp-management)
+<table align="center" width="100%">
+  <tr>
+    <td width="35%" align="center"><b>🖥️ Frontend</b></td>
+    <td width="35%" align="center"><b>🗄️ Backend / Infra</b></td>
+    <td width="30%" align="center"><b>🔗 Links</b></td>
+  </tr>
+  <tr>
+    <td align="center"><kbd>React Native</kbd> <br> <kbd>Next.js</kbd> <kbd>TypeScript</kbd></td>
+    <td align="center"><kbd>Supabase</kbd> <br> <kbd>PostgreSQL</kbd></td>
+    <td align="center">
+      <a href="https://github.com/abbaszaynn">
+        <img src="https://img.shields.io/badge/View_Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-#### 2. MUST Framework (Multilingual Hate Speech Detection)
-[![MUST Framework](https://github-readme-stats.vercel.app/api/pin/?username=abbaszaynn&repo=MUST-Hate-Speech-Detection&theme=nord&bg_color=00000000&hide_border=true&title_color=4f46e5&icon_color=4f46e5)](https://github.com/abbaszaynn/MUST-Hate-Speech-Detection)
+<br>
 
-| Layer | Technology |
-|---|---|
-| AI/ML | Python, XLM-RoBERTa, mBERT, LIME, SHAP |
-| Domain | NLP, Explainable AI |
-| Details | Fine-tuned XLM-RoBERTa for multilingual hate-speech classification (English, Urdu, Roman Urdu) with LIME and SHAP explainability for content-moderation transparency. |
+#### 🧠 MUST Framework (Multilingual Hate Speech Detection)
+> *An Explainable AI-Based Framework for Multilingual Hate Speech Detection. Fine-tuned XLM-RoBERTa for classification (English, Urdu, Roman Urdu) with LIME and SHAP explainability for content-moderation transparency.*
 
-**Links:** [Live Publication](https://doi.org/10.1109/ACCESS.2025.3629527) | [Code](https://github.com/abbaszaynn/MUST-Hate-Speech-Detection)
+<table align="center" width="100%">
+  <tr>
+    <td width="35%" align="center"><b>🤖 AI / ML</b></td>
+    <td width="35%" align="center"><b>🔬 Domain</b></td>
+    <td width="30%" align="center"><b>🔗 Links</b></td>
+  </tr>
+  <tr>
+    <td align="center"><kbd>Python</kbd> <kbd>XLM-RoBERTa</kbd> <br> <kbd>mBERT</kbd> <kbd>LIME</kbd> <kbd>SHAP</kbd></td>
+    <td align="center"><kbd>NLP</kbd> <br> <kbd>Explainable AI</kbd></td>
+    <td align="center">
+      <a href="https://doi.org/10.1109/ACCESS.2025.3629527">
+        <img src="https://img.shields.io/badge/IEEE_Publication-4f46e5?style=for-the-badge&logo=ieee&logoColor=white" alt="Publication" />
+      </a>
+      <br>
+      <a href="https://github.com/abbaszaynn">
+        <img src="https://img.shields.io/badge/View_Code-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🛠 Tech Stack
 
