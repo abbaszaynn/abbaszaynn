@@ -30,9 +30,7 @@ const ZainAbbas = {
 ### 🚀 Featured Projects
 
 #### 1. Camp Management Platform (Web & Mobile)
-<a href="https://github.com/abbaszaynn/camp-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abbaszaynn&repo=camp-management&theme=nord&bg_color=00000000&hide_border=true&title_color=4f46e5&icon_color=4f46e5" alt="Camp Management" />
-</a>
+[![Camp Management](https://github-readme-stats.vercel.app/api/pin/?username=abbaszaynn&repo=camp-management&theme=nord&bg_color=00000000&hide_border=true&title_color=4f46e5&icon_color=4f46e5)](https://github.com/abbaszaynn/camp-management)
 
 | Layer | Technology |
 |---|---|
@@ -43,9 +41,7 @@ const ZainAbbas = {
 **Links:** [Code](https://github.com/abbaszaynn/camp-management)
 
 #### 2. MUST Framework (Multilingual Hate Speech Detection)
-<a href="https://github.com/abbaszaynn/MUST-Hate-Speech-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abbaszaynn&repo=MUST-Hate-Speech-Detection&theme=nord&bg_color=00000000&hide_border=true&title_color=4f46e5&icon_color=4f46e5" alt="MUST Framework" />
-</a>
+[![MUST Framework](https://github-readme-stats.vercel.app/api/pin/?username=abbaszaynn&repo=MUST-Hate-Speech-Detection&theme=nord&bg_color=00000000&hide_border=true&title_color=4f46e5&icon_color=4f46e5)](https://github.com/abbaszaynn/MUST-Hate-Speech-Detection)
 
 | Layer | Technology |
 |---|---|
